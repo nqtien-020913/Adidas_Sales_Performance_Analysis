@@ -1,4 +1,4 @@
-# Adidas_Sales_Performance_Analysis
+# 📈Adidas Sales Performance Analysis
 
 ## **1/. Project Background**	
 
